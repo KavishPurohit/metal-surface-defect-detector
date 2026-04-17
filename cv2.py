@@ -3,8 +3,7 @@ from __future__ import annotations
 from io import BytesIO
 
 import numpy as np
-from PIL import Image
-from PIL import ImageDraw
+from PIL import Image, ImageDraw
 
 __version__ = "4.11.0-shim"
 
